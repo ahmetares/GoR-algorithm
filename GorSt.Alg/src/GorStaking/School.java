@@ -33,7 +33,7 @@ public class School {
 	public void leveling(String skill) {
 		setWeek(getWeek() + 1);
 		
-//		System.out.println("You are in the week: "+ getWeek() + " for: " + getClass().getName());
+		System.out.println("You are in the week: "+ getWeek() + " for: " + getClass().getName());
 		
 	
 		
@@ -185,7 +185,7 @@ public class School {
 		}
 		
 				
-//		showlevels();
+		showlevels();
 		System.out.println("------");
 
 		
